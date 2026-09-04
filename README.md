@@ -13,7 +13,7 @@ Long-term goal: Full Stack roles .
 - **[Innovexa](#)** — Academia-Industry Collaboration Portal (SIH) — Node.js, Express, EJS, MongoDB, Tailwind
 - **[Wanderlust](#)** — Airbnb-style listings platform — Node.js, Express, EJS, MongoDB, Bootstrap 5
 - **[PulseDaily](#)** — Automated daily news system — Bolt.new, n8n, NewsAPI, Google Sheets, Gmail
-- **Quora-Clone** — CRUD app with Express, EJS, UUID, method-override
+- **[Quora-Clone](https://github.com/rasmeetsingh/Quora_clone)** — CRUD app with Express, EJS, UUID, method-override
 
 ## 💻 Skills
 
