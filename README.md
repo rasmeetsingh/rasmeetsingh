@@ -25,11 +25,8 @@ Long-term goal: Full Stack roles .
 
 **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Rasmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasmeetsingh&show_icons=true&theme=dark)
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmeetsingh)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rasmeet8037@gmail.com)
+
