@@ -4,9 +4,9 @@
 
 ![Header](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
-I build full-stack web apps and dabble in AI/ML automation. Currently working on **Innovexa**, an Academia-Industry Collaboration Portal for Smart India Hackathon, and **Wanderlust**, an Airbnb-style listings platform.
+I build full-stack web apps . Currently working on **Innovexa**, an Academia-Industry Collaboration Portal for Smart India Hackathon, and **Wanderlust**, an Airbnb-style listings platform.
 
-Long-term goal: AI/ML Engineering or Full Stack roles .
+Long-term goal: Full Stack roles .
 
 ## 🚀 Projects
 
@@ -27,7 +27,7 @@ Long-term goal: AI/ML Engineering or Full Stack roles .
 
 ## 📊 GitHub Stats
 
-![Rasmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Rasmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasmeetsingh&show_icons=true&theme=dark)
 
 ## 🌐 Connect with me
 
