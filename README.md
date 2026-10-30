@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rasmeet
+# Hi 👋, I'm Rasmeet Singh
 
 ###  B.Tech CSE student @ GGSIPU, Delhi
 
